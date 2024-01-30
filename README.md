@@ -11,10 +11,10 @@ Additionally, it is time to deploy this app to our public cloud provider (Azure)
 
 ### Part One (Lab-A03)
 
-- Use Pulumi to provision the IaC resources
+- Use Pulumi to provision the IaC resources (Did by Joe Santosh)
   - Azure Container Registry (ACR)
   - Azure Container Instances (ACI)
-- Use Pulumi to package the application into a Docker container and deploy it
+- Use Pulumi to package the application into a Docker container and deploy it (Did by Me)
 
 ### Part Two (Hybrid-H03)
 
